@@ -1,0 +1,17 @@
+{
+    "name": "php2/base",
+    "autoload": {
+        "psr-4": {
+            "Php2\\Base\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Setting",
+            "email": "minhbyn00000@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
